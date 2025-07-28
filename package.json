@@ -1,0 +1,23 @@
+{
+  "name": "node_learning",
+  "version": "1.0.0",
+  "description": "Node and express learning",
+  "homepage": "https://github.com/HS311099/Node_Learning#readme",
+  "bugs": {
+    "url": "https://github.com/HS311099/Node_Learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HS311099/Node_Learning.git"
+  },
+  "license": "ISC",
+  "author": "Heet shah",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
